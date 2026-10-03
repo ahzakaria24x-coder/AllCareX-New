@@ -1,0 +1,6 @@
+{
+  "name": "All Care X",
+  "description": "All-in-one UK care management platform for domiciliary, supported living, and nursing providers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

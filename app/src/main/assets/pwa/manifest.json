@@ -1,0 +1,25 @@
+{
+  "short_name": "All Care X",
+  "name": "All Care X - Carer Companion",
+  "icons": [
+    {
+      "src": "/icons/icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icons/icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "/carer",
+  "background_color": "#0A1128",
+  "theme_color": "#10B981",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "scope": "/",
+  "description": "Fast, offline-first field app for UK domiciliary and supported living care workers."
+}
